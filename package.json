@@ -1,0 +1,12 @@
+{
+  "name": "api-test-automation-demo-cypress",
+  "version": "1.0.0",
+  "description": "API Testing with Cypress using Reqres",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^14.5.1"
+  }
+}
